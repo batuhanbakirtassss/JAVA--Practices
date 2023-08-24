@@ -1,0 +1,2 @@
+Array Sorting Program
+This Java program allows you to input an array's size and its elements, and then sorts the elements in ascending order using the Arrays.sort method. It provides a user-friendly interface to input the array size and elements, and then displays the sorted array.

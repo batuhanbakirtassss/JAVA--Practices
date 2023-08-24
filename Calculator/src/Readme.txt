@@ -1,0 +1,1 @@
+A simple calculator program written in Java using switch-case statements to perform basic arithmetic operations. The program takes two integers as input from the user and performs addition, subtraction, multiplication, or division based on the user's choice.

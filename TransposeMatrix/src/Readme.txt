@@ -1,0 +1,2 @@
+Matrix Transpose Program
+This Java program calculates the transpose of a given matrix. The transpose of a matrix is obtained by interchanging rows and columns of the original matrix. The program takes user input for the dimensions of the matrix and its elements, and then displays both the original matrix and its transpose.
